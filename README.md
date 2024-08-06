@@ -1,3 +1,12 @@
+# Taller: procedimientos almacenados
+## Objetivo
+
+Realizar procedimientos almacenados aplicando todos los conocimientos adquiridos hasta el momento.
+
+## Entrega
+
+Se debe subir un archivo .sql con el script que contenga todos los procedimientos y se debe entregar por medio de Pull Request.
+
 1. **Crear una nueva cuenta bancaria**
 
    Crea una nueva cuenta bancaria para un cliente, asignando un número de cuenta único y estableciendo un saldo inicial.
